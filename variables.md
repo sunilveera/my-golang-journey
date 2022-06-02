@@ -14,15 +14,18 @@ Long form without initilization
 
 
 Declaration with implcite inference
+
   	var i = 10
 	var s = "superman"
 
 
 Short form
+
   	i := 10
   	s := "superman"
   
 
 Declaring multiple variables at a time
+
   	a, b, c := 10, 20, 30
   	s1, s2, s3 := "superman", "batman", "spidreman"
