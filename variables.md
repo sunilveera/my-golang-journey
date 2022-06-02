@@ -1,12 +1,12 @@
 Long form with initilization
  
-  var i int = 10
+  	var i int = 10
 	var s string = "superman"
 
 
 Long form without initilization
   
-  var i int
+  	var i int
 	var s string
 
 	i = 10
@@ -14,15 +14,15 @@ Long form without initilization
 
 
 Declaration with implcite inference
-  var i = 10
+  	var i = 10
 	var s = "superman"
 
 
 Short form
-  i := 10
-  s := "superman"
+  	i := 10
+  	s := "superman"
   
 
 Declaring multiple variables at a time
-  a, b, c := 10, 20, 30
-  s1, s2, s3 := "superman", "batman", "spidreman"
+  	a, b, c := 10, 20, 30
+  	s1, s2, s3 := "superman", "batman", "spidreman"
